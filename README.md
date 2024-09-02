@@ -13,7 +13,6 @@ This is a backend REST API for a blog application built using **Node.js**, **Exp
 - **Express.js**
 - **MongoDB**
 - **Mongoose** (ODM for MongoDB)
-- **JWT** (for secure authentication)
 
 ### API Endpoints
 - **User Routes** (`/api/user`)
